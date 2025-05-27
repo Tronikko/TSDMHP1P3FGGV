@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TSDMHP3P1FGGV</string>
+    <string name="titulo_mostrar">Datos mostrados</string>
+    <string name="btn_enviar">Enviar Datos</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="hint_nombre">Ingrese su nombre</string>
+    <string name="hint_edad">Ingrese su edad</string>
+    <string name="hint_correo">Ingrese su correo</string>
+    <string name="hint_sexo">Ingrese su sexo</string>
+    <string name="hint_telefono">Ingrese su teléfono</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
